@@ -1,3 +1,1 @@
-# Hello there
-
-<a href="https://www.linkedin.com/in/melih-darcan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+<img src="https://github-readme-stats.vercel.app/api?username=MelihDarcanxyz&&show_icons=true&title_color=89aaeb&icon_color=c3e88d&text_color=eeffff&bg_color=292d35" />
